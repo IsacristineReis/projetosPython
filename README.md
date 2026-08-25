@@ -1,2 +1,7 @@
-# Projetos na Linguagem Python
-Aprendendo Python Construindo Projetos por Níveis
+# Learned Python By Building Projects
+___
+## From Beginner to Advanced
+***
+
+
+
