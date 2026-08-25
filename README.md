@@ -1,2 +1,2 @@
-# projetosPython
-Projetos focado na lógica de programação
+# Projetos na Linguagem Python
+Aprendendo Python Construindo Projetos por Níveis
