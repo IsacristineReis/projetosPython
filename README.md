@@ -1,10 +1,10 @@
-# Learned Python By Building Projects <br> From Beginner to Advanced
+# Learned Python By Building Beginner Projects
 
 ### Descrição
 
-Esse repositório contém projetos com níveis de dificuldades para estudo de lógica de programação na linguagem **Python**
+Esse repositório contém mini projetos no nível iniciante para estudo de lógica de programação na linguagem **Python**
 
-> Focando na Programação Orientada a Objetos
+> Focando na introdução à Programação Orientada a Objetos 
 
 
 
